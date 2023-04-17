@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: #424E61;
-    color: white;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -29,8 +29,8 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#b10000,#f09c00);
-    color:white;
+    background-image: linear-gradient(#b10000,#f0e000);
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,7 +70,7 @@ body {
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20%;
+    grid-template-columns: 20% 20% 20% 20%;
 }
 
 .rodape{
